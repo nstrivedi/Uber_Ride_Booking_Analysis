@@ -192,7 +192,6 @@ The dashboard is built using an Uber ride-booking log containing:
 
 ![alt text](<Screenshot 2026-09-09 114329.png>)
 
-
 ---
 
 # 📁 Project Structure
@@ -266,7 +265,7 @@ This dashboard enables the business to:
 
 # 📬 Connect With Me
 
-**Nishant Trivedi**
+**[Nishant Trivedi]**
 
 - LinkedIn: https://www.linkedin.com/in/nstrivedi
 - GitHub: https://www.github.com/nstrivedi
