@@ -170,13 +170,28 @@ The dashboard is built using an Uber ride-booking log containing:
 # 📷 Dashboard Preview
 
 ![alt text](<Screenshot 2026-09-09 113816.png>)
+
+
 ![alt text](<Screenshot 2026-09-09 113851.png>)
+
+
 ![alt text](<Screenshot 2026-09-09 113922.png>)
+
+
 ![alt text](<Screenshot 2026-09-09 114015.png>)
+
+
 ![alt text](<Screenshot 2026-09-09 114052.png>)
+
+
 ![alt text](<Screenshot 2026-09-09 114140.png>)
+
+
 ![alt text](<Screenshot 2026-09-09 114211.png>)
+
+
 ![alt text](<Screenshot 2026-09-09 114329.png>)
+
 
 ---
 
