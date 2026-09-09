@@ -266,7 +266,7 @@ This dashboard enables the business to:
 
 # 📬 Connect With Me
 
-**[Nishant Trivedi]**
+**Nishant Trivedi**
 
 - LinkedIn: https://www.linkedin.com/in/nstrivedi
 - GitHub: https://www.github.com/nstrivedi
